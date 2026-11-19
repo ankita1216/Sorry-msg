@@ -2,11 +2,6 @@
 
 React + Vite + Framer Motion + Lucide icons. No backend, no APIs, no external services — everything runs locally.
 
-## Run it
-1. Extract the ZIP and open the folder in VS Code
-2. `npm install`
-3. `npm run dev`
-4. Open the local URL (usually http://localhost:5173)
 
 Production build: `npm run build` (output in `dist/`), preview with `npm run preview`.
 
